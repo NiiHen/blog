@@ -7,42 +7,42 @@ window.onload = function() {
     $(this).attr("id", idnyaabjad); 
     $('#lstbtn').html( 
     '<div class="lstnav"><ul>'+
-      '<li><a href="#0">0</a></li>'+
-      '<li><a href="#1">1</a></li>'+
-      '<li><a href="#2">2</a></li>'+
-      '<li><a href="#3">3</a></li>'+
-      '<li><a href="#4">4</a></li>'+
-      '<li><a href="#5">5</a></li>'+
-      '<li><a href="#6">6</a></li>'+
-      '<li><a href="#7">7</a></li>'+
-      '<li><a href="#8">8</a></li>'+
-      '<li><a href="#9">9</a></li>'+
-      '<li><a href="#a">a</a></li>'+
-      '<li><a href="#b">b</a></li>'+
-      '<li><a href="#c">c</a></li>'+
-      '<li><a href="#d">d</a></li>'+
-      '<li><a href="#e">e</a></li>'+
-      '<li><a href="#f">f</a></li>'+
-      '<li><a href="#g">g</a></li>'+
-      '<li><a href="#h">h</a></li>'+
-      '<li><a href="#i">i</a></li>'+
-      '<li><a href="#j">j</a></li>'+
-      '<li><a href="#k">k</a></li>'+
-      '<li><a href="#l">l</a></li>'+
-      '<li><a href="#m">m</a></li>'+
-      '<li><a href="#n">n</a></li>'+
-      '<li><a href="#o">o</a></li>'+
-      '<li><a href="#p">p</a></li>'+
-      '<li><a href="#q">q</a></li>'+
-      '<li><a href="#r">r</a></li>'+
-      '<li><a href="#s">s</a></li>'+
-      '<li><a href="#t">t</a></li>'+
-      '<li><a href="#u">u</a></li>'+
-      '<li><a href="#v">v</a></li>'+
-      '<li><a href="#w">w</a></li>'+
-      '<li><a href="#x">x</a></li>'+
-      '<li><a href="#y">y</a></li>'+
-      '<li><a href="#z">z</a></li>'+
+      '<li><a href="#0"><div class="abjdn">0</div></a></li>'+
+      '<li><a href="#1"><div class="abjdn">1</div></a></li>'+
+      '<li><a href="#2"><div class="abjdn">2</div></a></li>'+
+      '<li><a href="#3"><div class="abjdn">3</div></a></li>'+
+      '<li><a href="#4"><div class="abjdn">4</div></a></li>'+
+      '<li><a href="#5"><div class="abjdn">5</div></a></li>'+
+      '<li><a href="#6"><div class="abjdn">6</div></a></li>'+
+      '<li><a href="#7"><div class="abjdn">7</div></a></li>'+
+      '<li><a href="#8"><div class="abjdn">8</div></a></li>'+
+      '<li><a href="#9"><div class="abjdn">9</div></a></li>'+
+      '<li><a href="#a"><div class="abjdn">a</div></a></li>'+
+      '<li><a href="#b"><div class="abjdn">b</div></a></li>'+
+      '<li><a href="#c"><div class="abjdn">c</div></a></li>'+
+      '<li><a href="#d"><div class="abjdn">d</div></a></li>'+
+      '<li><a href="#e"><div class="abjdn">e</div></a></li>'+
+      '<li><a href="#f"><div class="abjdn">f</div></a></li>'+
+      '<li><a href="#g"><div class="abjdn">g</div></a></li>'+
+      '<li><a href="#h"><div class="abjdn">h</div></a></li>'+
+      '<li><a href="#i"><div class="abjdn">i</div></a></li>'+
+      '<li><a href="#j"><div class="abjdn">j</div></a></li>'+
+      '<li><a href="#k"><div class="abjdn">k</div></a></li>'+
+      '<li><a href="#l"><div class="abjdn">l</div></a></li>'+
+      '<li><a href="#m"><div class="abjdn">m</div></a></li>'+
+      '<li><a href="#n"><div class="abjdn">n</div></a></li>'+
+      '<li><a href="#o"><div class="abjdn">o</div></a></li>'+
+      '<li><a href="#p"><div class="abjdn">p</div></a></li>'+
+      '<li><a href="#q"><div class="abjdn">q</div></a></li>'+
+      '<li><a href="#r"><div class="abjdn">r</div></a></li>'+
+      '<li><a href="#s"><div class="abjdn">s</div></a></li>'+
+      '<li><a href="#t"><div class="abjdn">t</div></a></li>'+
+      '<li><a href="#u"><div class="abjdn">u</div></a></li>'+
+      '<li><a href="#v"><div class="abjdn">v</div></a></li>'+
+      '<li><a href="#w"><div class="abjdn">w</div></a></li>'+
+      '<li><a href="#x"><div class="abjdn">x</div></a></li>'+
+      '<li><a href="#y"><div class="abjdn">y</div></a></li>'+
+      '<li><a href="#z"><div class="abjdn">z</div></a></li>'+
   '</ul></div>'
     );
   });
