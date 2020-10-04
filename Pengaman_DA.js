@@ -85,6 +85,7 @@ $(document).ready(function(){
 	$('a[href^="https://duniahanyasementara"]').each(function(){ 
 		var Janda = $(this).attr("href"); 
 		var Perawan = Janda.replace("https://duniahanyasementara", 'https://revpenome.puisi62.xyz/?go=' + mytext); 
+		$(this).attr("onclick", "window.open("+Perawan+");return false;");
 		$(this).attr("id", "crot"); 
 		$(this).attr("href", Perawan); 
 		$(this).attr("rel", "nofollow"); 
@@ -103,4 +104,4 @@ function lanjutkan(){
   
   var tautan = Base64.decode(secondtext);
   
-window.open('https://bit.ly/36vtAYc');window.open(tautan); }
+window.open(tautan); }
