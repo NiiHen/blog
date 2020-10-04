@@ -87,7 +87,7 @@ $(document).ready(function(){
 		var Perawan = Janda.replace("https://duniahanyasementara", 'https://revpenome.puisi62.xyz/?go=' + mytext); 
 		$(this).attr("onclick", "window.open('"+Perawan+"');");
 		$(this).attr("id", "crot"); 
-		$(this).attr("href", "https://bit.ly/36vtAYc"); 
+		$(this).attr("href", "https://bit.ly/3nfnGAm"); 
 		$(this).attr("rel", "nofollow"); 
 				
 	});
