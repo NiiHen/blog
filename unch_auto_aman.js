@@ -21,13 +21,13 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 
 var x=Math.floor((Math.random()*5)+ 1);
-if(x=="1"){xxx="%2F2015%2F04%2Fdanmachi-episode-1-wah-udah-ada-adegan.html"}
-if(x=="2"){xxx="%2F2018%2F12%2Fsi-cantik-uketsuke-jou-di-serial-anime.html"}
-if(x=="3"){xxx="%2F2019%2F03%2Fulang-tahun-pengisi-suara-goblin-slayer.html"}
-if(x=="4"){xxx="%2F2019%2F08%2Ftingkah-kazuma-saat-akan-menerima-harta.html"}
-if(x=="5"){xxx="%2F2019%2F08%2Fsosok-haruhime-yang-mengejutkan-bell-di.html"}
+if(x=="1"){xxx="/2015/04/danmachi-episode-1-wah-udah-ada-adegan.html"}
+if(x=="2"){xxx="/2018/12/si-cantik-uketsuke-jou-di-serial-anime.html"}
+if(x=="3"){xxx="/2019/03/ulang-tahun-pengisi-suara-goblin-slayer.html"}
+if(x=="4"){xxx="/2019/08/tingkah-kazuma-saat-akan-menerima-harta.html"}
+if(x=="5"){xxx="/2019/08/sosok-haruhime-yang-mengejutkan-bell-di.html"}
 
-a_to_ve[i].href="https://semawur.com/st/?api=b1f90bd447356292f866cc9c0864820cc2dab97b&url=revpenome.puisi62.xyz"+xxx+"%3Fgo%3D"+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_ve[i].id="sedot";a_to_ve[i].target="_blank";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+a_to_ve[i].href="https://revpenome.puisi62.xyz"+xxx+"?go="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_ve[i].id="sedot";a_to_ve[i].target="_blank";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
